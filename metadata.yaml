@@ -1,0 +1,25 @@
+_repo: The-Hunt-Pack_65272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Samuel Alexander
+    alias: White, S. A.
+    birthdate: 1885
+    deathdate: 1956
+    gutenberg_agent_id: '41451'
+    url: http://www.gutenberg.org/2009/agents/41451
+description: ''
+gutenberg_issued: '2020-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- Yukon River Valley (Yukon and Alaska) -- Fiction'
+- GITenberg
+title: The Hunt Pack
+url: http://www.gutenberg.org/ebooks/65272
